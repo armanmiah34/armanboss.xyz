@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='64.20.41.122';
+USER='armandev_demopanelnew';
+PASS='newpaneldemo';
+DBNAME='armandev_demopanelnew';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
