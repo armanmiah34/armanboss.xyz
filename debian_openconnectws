@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
 HOST='64.20.41.122';
-USER='armandev_demopanelnew';
-PASS='newpaneldemo';
-DBNAME='armandev_demopanelnew';
+USER='armandev_mango-vipxyz';
+PASS='mango-vipxyz123';
+DBNAME='armandev_mango-vipxyz';
 PORT_TCP='1194';
 PORT_UDP='None';
 
